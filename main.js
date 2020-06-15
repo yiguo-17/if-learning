@@ -10,7 +10,7 @@ function isItMedium(str){
 }
 
 function isItShort(str){
-  if(str.length< 10){return "That's a small string!";} else {return "That's not a small string!"}
+  if(str.length< 10){return "That's a small string!";} else {return "That's not a small string!";}
 }
 
 function howLongIsMyString(str){
